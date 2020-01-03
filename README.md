@@ -12,6 +12,7 @@
 * 1) ***./configure --prefix=/usr/local/httpd-2.4.41***
 * 2) ***make***
 * 3) ***sudo make install***
+* 4) start the server using ***sudo /apache/bin/apachectl -k start***
 
 ### Visit localhost
 ### You can check the error_log file in logs folder to see your custom version name
