@@ -15,4 +15,4 @@
 * 4) start the server using ***sudo /apache/bin/apachectl -k start***
 
 ### Visit localhost
-### You can check the error_log file in logs folder to see your custom version name
+### You can check the error_log file in logs folder to see your custom version name--
