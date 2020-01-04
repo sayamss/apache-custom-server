@@ -1,5 +1,5 @@
 # Apache Custom Server
-## Tech stack - apache htttpd server, html
+## Tech stack - apache htttpd , html
 
 ### How to setup a custom apache httpd server
 
