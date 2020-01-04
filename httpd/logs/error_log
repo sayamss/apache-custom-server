@@ -1,0 +1,2 @@
+[Sun Jan 05 00:54:47.880627 2020] [mpm_event:notice] [pid 19961:tid 139640687266752] AH00489: Apache-gci/2.4.41 (Unix) configured -- resuming normal operations
+[Sun Jan 05 00:54:47.880849 2020] [core:notice] [pid 19961:tid 139640687266752] AH00094: Command line: '/usr/local/httpd-2.4.41/bin/httpd'
