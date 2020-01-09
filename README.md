@@ -1,4 +1,6 @@
-# Apache Custom Server ![GCI Badge](https://img.shields.io/badge/Google%20Code%20In-JBoss%20Community-red?style=flatr&labelColor=fdb900)
+
+# Apache Custom Server 
+![GCI Badge](https://img.shields.io/badge/Google%20Code%20In-JBoss%20Community-red?style=flatr&labelColor=fdb900)
 ## Tech stack - apache htttpd , html
 
 ### How to setup a custom apache httpd server
